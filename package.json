@@ -1,0 +1,14 @@
+{
+  "name": "machan",
+  "version": "0.0.4",
+  "description": "core-ui sass files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pubudu Dodangoda",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
